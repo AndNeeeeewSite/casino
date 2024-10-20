@@ -1,0 +1,144 @@
+/*style.css*/
+.casino{
+    display: flex;
+    background-color: rgb(145, 112, 51);
+    width: 700px;
+    height: 300px;
+    gap: 60px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.promoCheck{
+    background-color: rgb(145, 112, 51);
+    width: 200px;
+    height: 50px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+}
+.promoCheck:focus{
+    background-color: rgb(145, 112, 51);
+    width: 200px;
+    height: 50px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+}
+
+.promoOutputinput{
+    width: 692px;
+}
+.stavkaOutputinput{
+    width: 745px;
+}
+.casinoNo{
+    display: flex;
+    width: 900px;
+    height: 300px;
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+.promoDiv{
+    display: flex;
+    gap: 30px;
+}
+
+
+.balanceOutput{
+    background-color: rgb(145, 112, 51);
+    width: 900px;
+    height: 50px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+    padding-left: 10px;
+}
+
+.promoOutput{
+    background-color: rgb(145, 112, 51);
+    width: 900px;
+    height: 50px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+    padding-left: 10px;
+}
+.stavcaOutput{
+    background-color: rgb(145, 112, 51);
+    width: 900px;
+    height: 50px;
+    outline: 10px solid rgb(211, 143, 18);
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+    padding-left: 10px;
+}
+
+
+.num-1,.num-2,.num-3{ 
+    font-size:230px;
+}
+
+body{
+    gap: 30px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center; /* Горизонтальное выравнивание */
+    align-items: center;    /* Вертикальное выравнивание */
+    height: 100vh;  
+    background-color: lightblue;
+}
+.button-crutka{
+    border-radius: 10px;
+    background-color: rgb(145, 112, 51);
+    width: 200px;
+    height: 300px;
+    margin-left: 40px;
+    outline: 10px solid rgb(211, 143, 18);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+}
+.button-crutka:focus{
+    border-radius: 10px;
+    background-color: rgb(145, 112, 51);
+    width: 200px;
+    height: 300px;
+    margin-left: 40px;
+    outline: 10px solid rgb(211, 143, 18);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: lightblue;
+}
