@@ -13,6 +13,10 @@
     
 }
 
+.promoOutput{
+    display: flex;
+}
+
 .promoCheck{
     background-color: rgb(145, 112, 51);
     width: 200px;
